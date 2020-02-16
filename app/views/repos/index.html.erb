@@ -1,0 +1,9 @@
+<h3> Public Repos</h3>
+<form onsubmit="window.location = window.location.origin + '/repos?q=' +  document.getElementById('keyword').value; return false;">
+  <input type="text" id="keyword" />
+  <input type="submit" value="search" />
+</form>
+<hr>
+
+
+<%= render partial: "items"%>
