@@ -15,10 +15,10 @@ Clone the repo into a folder of your choice
 ```
 git clone https://github.com/achadee/gethub
 ```
-Run the setup command, this will build the containers for the first
+Build the containers!
 
 ```
-./setup.sh
+docker-compose build
 ```
 
 ### Usage
