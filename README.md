@@ -5,7 +5,7 @@ Gethub is a simple Rails project that pulls down Github repos for fast searching
 
 ## Getting Started
 
-This project runs on Docker, so you can run it on a container service like [ECS]( https://aws.amazon.com/ecs/) or you can run it locally buy [installing docker](https://docs.docker.com/install/) on your machine
+This project runs on Docker, so you can run it on a container service like [ECS]( https://aws.amazon.com/ecs/) or you can run it locally by [installing docker](https://docs.docker.com/install/) on your machine
 
 
 ### Installing
